@@ -1,1 +1,1 @@
-# Looto app
+# Lotto app
